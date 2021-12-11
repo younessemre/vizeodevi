@@ -33,7 +33,7 @@ def main_menu() :
         elif secim == "3" :
             exit(0)
         else :
-            print("Hata!")
+            print("Hatalı Veri Girişi Yaptınız!")
 
 
 
